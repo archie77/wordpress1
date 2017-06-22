@@ -39,3 +39,9 @@ body {
 	font-size: 80%;
 	padding: 1em;
 }
+
+#navigation {
+  margin: 30px 0 0 0;
+  border-top: 1px solid #efefef;
+  border-bottom: 1px solid #efefef;
+}
